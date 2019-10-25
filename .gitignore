@@ -65,5 +65,5 @@ instance/
 
 # Virtualenv
 venv/
-wsl-venv/
+venv-wsl/
 .venv/
